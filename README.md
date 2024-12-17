@@ -1,4 +1,5 @@
 # Welcome to OpenJDK 17 Updates!
+## This is a fork of [jdk17u](https://github.com/openjdk/jdk17u). I have named it _Turtle_
 
 The JDK 17 Updates project uses two GitHub repositories.
 Updates are continuously developed in the repository [jdk17u-dev](https://github.com/openjdk/jdk17u-dev). This is the repository usually targeted by contributors.
